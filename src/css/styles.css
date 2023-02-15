@@ -245,5 +245,26 @@
     margin: 0 !important;
   }
 }
+.ReactModal__Content {
+  max-width: 80%;
+}
+.ReactModal__Content form {
+  text-align: center;
+}
+.ReactModal__Content form input {
+  width: 75%;
+}
+.ReactModal__Content .radios-container {
+  padding: 0px 10px;
+  gap: 10px;
+  max-width: 100%;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.ReactModal__Content .radios-container span {
+  width: 30%;
+  align-items: center;
+  justify-content: center;
+}
 
 /*# sourceMappingURL=styles.css.map */
